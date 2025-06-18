@@ -33,6 +33,7 @@ The final dashboard includes the following:
 •	Interactive slicers for guestrooms, parking, main road, stories, bathrooms and bedrooms.
 ![Screenshot 2025-06-11 223945](https://github.com/user-attachments/assets/73d41785-f188-463e-a341-ed6e92f213d8)
 ![Screenshot 2025-06-11 223920](https://github.com/user-attachments/assets/8da1978e-4f44-4dc4-9299-154a7e192d72)
+![Screenshot 2025-06-11 223851](https://github.com/user-attachments/assets/98d4a958-6c1f-4ab8-95e1-07fc53ec62dd)
 
 
 
