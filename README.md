@@ -51,7 +51,7 @@ The final dashboard includes the following:
 
 # Conclusion and recommendation
 The data reveals that a high percentage of the houses are in the low priced segment. This means either consumers are showing preference towards more affordable housing options or there is an oversupply of houses in that segment. In contrast, homes equipped with amenities such as air conditioning, basements, or furnishings are more commonly priced in the Medium to High range.
-There should be improvements on properties to increase value. Future evaluations would benefit from including location-specific variables to uncover more insights. Potential investors should target low priced houses. They should add features like air conditioning to increase the value of the houses.
+There should be improvements on properties to increase value. Future evaluations would benefit from including location-specific variables to uncover more insights. Potential investors should target medium priced houses and add features like air conditioning to increase the value of the houses.
 
 
 
